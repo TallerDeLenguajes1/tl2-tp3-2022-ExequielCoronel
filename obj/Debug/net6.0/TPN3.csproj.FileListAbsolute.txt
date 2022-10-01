@@ -1,0 +1,5 @@
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\TPN3.csproj.AssemblyReference.cache
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\TPN3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\TPN3.AssemblyInfoInputs.cache
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\TPN3.AssemblyInfo.cs
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\TPN3.csproj.CoreCompileInputs.cache
