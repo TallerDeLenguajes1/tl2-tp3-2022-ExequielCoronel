@@ -1,31 +1,46 @@
-namespace Cadeteria
+namespace CadeteriaTPN3
 {
     class Pedido
     {
-        public const float PagoPorPedidoEntregado = 300;
+        const uint INDEFINIDO = 9999999;
         bool Estado;
         uint Numero;
         string Observacion;
         Cliente cliente;
 
-        public Pedido(bool estado, uint Numero, string Observacion, string Nombre, long ID, uint telefono, string Direccion, string DatosDeReferencia)
+        public Pedido()
         {
-            Estado = estado;
+            Estado = false;
+            Numero = 0;
+            Observacion = "";
+            cliente = new Cliente();
+        }
+        public Pedido(uint Numero, string Observacion, string Nombre, long ID, uint telefono, string Direccion, string DatosDeReferencia)
+        {
+            Estado = false;
             this.Numero = Numero;
             this.Observacion = Observacion;
             Cliente cliente = new Cliente(DatosDeReferencia, Nombre, telefono, Direccion, ID);
         }
 
+        public uint getNumeroPedido()
+        {
+            return Numero;
+        }
         public bool ComprobarEstadoPedido()
         {
             return Estado;
         }
-        public void EliminarPedido()
+
+        public void cambiarEstadoPedido()
         {
-            this.Numero = -1;
-            this.Observacion = "";
-            this.Estado = null;
-            delete cliente;
+            if(Estado)
+            {
+                Estado = false;
+            } else {
+                Estado = true;
+            }
         }
+
     }
 }

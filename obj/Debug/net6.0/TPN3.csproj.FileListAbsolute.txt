@@ -3,3 +3,13 @@ C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\P
 C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\TPN3.AssemblyInfoInputs.cache
 C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\TPN3.AssemblyInfo.cs
 C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\TPN3.csproj.CoreCompileInputs.cache
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\bin\Debug\net6.0\TPN3.exe
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\bin\Debug\net6.0\TPN3.deps.json
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\bin\Debug\net6.0\TPN3.runtimeconfig.json
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\bin\Debug\net6.0\TPN3.dll
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\bin\Debug\net6.0\TPN3.pdb
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\TPN3.dll
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\refint\TPN3.dll
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\TPN3.pdb
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\TPN3.genruntimeconfig.cache
+C:\Users\execo\Escritorio\Universidad\3ero\2doCuatrimestre\TallerDeLenguajesII\Practica\TPN3\obj\Debug\net6.0\ref\TPN3.dll
